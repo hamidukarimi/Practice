@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(255, 169, 169);
+  font-size: 37px;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 200px;
+}
